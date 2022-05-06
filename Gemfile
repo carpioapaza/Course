@@ -61,3 +61,5 @@ gem 'httparty'
 
 gem 'ransack'
 gem 'faker' #Añadir Textos masivos de prueba, no es necesario
+
+gem 'turbo-rails'
